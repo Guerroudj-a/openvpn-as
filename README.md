@@ -90,11 +90,10 @@ Make sure you have the following prerequisites before proceeding:
 
    [Set up you own VPN Server with OPENVPN Access Server!](https://www.youtube.com/watch?v=p3HszAtNu-s)
 
-
-###Contributing###
+### Contributing ###
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to enhance this OpenVPN Access Server installation repository.
 
-###Disclaimer###
+### Disclaimer ###
 This repository is intended for ==educational and informational purposes only==. The cracking steps are provided for customization purposes, and users should ensure compliance with applicable laws and regulations.
 
 Note: Always use software responsibly and adhere to licensing agreements.[^1]
