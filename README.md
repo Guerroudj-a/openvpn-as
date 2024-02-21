@@ -49,7 +49,7 @@ Make sure you have the following prerequisites before proceeding:
    # Decompile the uprop.pyc File
    uncompyle6 uprop.pyc > uprop.py
    ```
-   ![Original uprop.py](assets/images/uprop.pyc.orig.png)
+   ![Original uprop.py](assets/uprop.pyc.orig.png)
    ```bash
    # Edit the decomplied file by adding 
    # ret['concurrent_connections'] = 5000
@@ -58,7 +58,7 @@ Make sure you have the following prerequisites before proceeding:
    # print "ret['%s'] = v_agg(%d) + v_nonagg(%d)" % (prop, v_agg, v_nonagg)
    vi uprop.py
    ```
-   ![Modefied uprop.py](assets/images/uprop.pyc.cracked.png)
+   ![Modefied uprop.py](assets/uprop.pyc.cracked.png)
    ```bash
    # Recompile the file and copy it to the corrent path
    python3 -m py_compile uprop.py
